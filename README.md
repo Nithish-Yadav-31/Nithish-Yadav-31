@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **NLP and LLM's**
 
-- 👯 I’m looking to collaborate on **NLP and CV projects**
 
 - 👨‍💻 All of my projects are available at [https://nithish-yadav-31.github.io/Nithish-Portfolio/](https://nithish-yadav-31.github.io/Nithish-Portfolio/)
 
