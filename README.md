@@ -7,9 +7,9 @@
 
 - LinkedIn Top Voice in Machine Learning! 🚀
 
-- 👨‍💻 All of my projects are available at [https://nithish-yadav-31.github.io/Nithish-Portfolio/](https://nithish-yadav-31.github.io/Nithish-Portfolio/)
+- 👨‍💻 All of my projects are available at 
 
-- 📄 Know about my experiences [https://nithish-yadav-31.github.io/Nithish-Portfolio/](https://nithish-yadav-31.github.io/Nithish-Portfolio/)
+- 📄 Know about my experiences 
 
 
 
