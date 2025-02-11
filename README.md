@@ -1,17 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nithish Yadav</h1>
-<h3 align="center">I'm an Aspiring Data Scientist and Deep Learning Enthsiast</h3>
+<h3 align="center">I'm an Aspiring Data Scientist and Deep Learning Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nithish-yadav-31&label=Profile%20views&color=0e75b6&style=flat" alt="nithish-yadav-31" /> </p>
 
 - 🌱 I’m currently learning **NLP and LLM's**
 
 - LinkedIn Top Voice in Machine Learning! 🚀
-
-- 👨‍💻 All of my projects are available at 
-
-- 📄 Know about my experiences 
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
