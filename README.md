@@ -35,7 +35,7 @@
   </a>
 
   <a href="https://www.crewai.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.greghilston.com/post/ai-agents/featured-image.png" alt="CrewAI" width="70" height="40"/>
+    <img src="https://www.greghilston.com/post/ai-agents/featured-image.png" alt="CrewAI" width="100" height="40"/>
   </a>
 
 
