@@ -31,7 +31,7 @@
     <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.19.0/files/dark/langchain.png" alt="LangChain" width="40" height="40"/>
   </a>
   <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
-    <img src="https://assets.datacamp.com/production/repositories/6773/datasets/8b56faeb095c39785da93e3584af5b46e15b7842/LangGraph_icon.png" alt="LangGraph" width="40" height="40"/>
+    <img src="https://langchain-ai.github.io/langgraph/static/wordmark_light.svg" alt="LangGraph" width="40" height="40"/>
   </a>
 
 
