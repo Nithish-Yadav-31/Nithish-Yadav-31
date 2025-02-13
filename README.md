@@ -30,7 +30,7 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
   <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:394/1*Z_vXwV0SPudOAdlZnoAkWA.png" alt="CUDA" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/373541/cuda.svg" alt="CUDA" width="40" height="40"/>
   </a>
 
 </p>
