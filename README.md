@@ -39,6 +39,15 @@
   <a href="https://ollama.com/" target="_blank" rel="noreferrer">
     <img src="https://logowik.com/content/uploads/images/ollama-language-model1721162986.logowik.com.webp" alt="Ollama" width="50" height="40"/>
   </a>
+  <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
+    <img src="https://images.seeklogo.com/logo-png/48/2/chroma-logo-png_seeklogo-482133.png" alt="ChromaDB" width="40" height="40"/>
+  </a>
+  <a href="https://qdrant.tech/" target="_blank" rel="noreferrer">
+    <img src="https://images.seeklogo.com/logo-png/49/1/qdrant-icon-logo-png_seeklogo-497960.png" alt="QdrantDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://companieslogo.com/img/orig/MDB_BIG.D-96d632a9.png?t=1720244492" alt="MongoDB" width="40" height="40"/>
+  </a>
 
 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
