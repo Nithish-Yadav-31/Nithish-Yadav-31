@@ -34,6 +34,10 @@
     <img src="https://langchain-ai.github.io/langgraph/static/wordmark_light.svg" alt="LangGraph" width="40" height="40"/>
   </a>
 
+  <a href="https://www.crewai.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.greghilston.com/post/ai-agents/featured-image.png" alt="CrewAI" width="70" height="40"/>
+  </a>
+
 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
