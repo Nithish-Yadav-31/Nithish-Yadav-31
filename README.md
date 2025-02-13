@@ -52,9 +52,6 @@
   <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/373541/cuda.svg" alt="CUDA" width="40" height="40"/>
   </a>
-   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.tensorflow.org/images/tf_logo.svg" alt="Tensorflow" width="40" height="40"/>
-  </a>
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C programming" width="40" height="40"/>
   </a>
