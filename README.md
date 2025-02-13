@@ -33,9 +33,11 @@
   <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
     <img src="https://langchain-ai.github.io/langgraph/static/wordmark_light.svg" alt="LangGraph" width="40" height="40"/>
   </a>
-
   <a href="https://www.crewai.com/" target="_blank" rel="noreferrer">
     <img src="https://www.greghilston.com/post/ai-agents/featured-image.png" alt="CrewAI" width="80" height="30"/>
+  </a>
+  <a href="https://ollama.com/" target="_blank" rel="noreferrer">
+    <img src="https://logowik.com/content/uploads/images/ollama-language-model1721162986.logowik.com.webp" alt="Ollama" width="40" height="40"/>
   </a>
 
 
