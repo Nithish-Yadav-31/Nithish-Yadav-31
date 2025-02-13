@@ -54,6 +54,17 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithish-yadav-31&show_icons=true&locale=en&layout=compact" alt="nithish-yadav-31" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nithish-yadav-31&show_icons=true&locale=en" alt="nithish-yadav-31" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithish-yadav-31&" alt="nithish-yadav-31" /></p>
+
+
+<hr>
+<h3 align="left"> ⚡ Stats:</h3>
+
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nithish-yadav-31&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=nithish-yadav-31&show_icons=true&locale=en" alt="GitHub Stats" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nithish-yadav-31&" alt="GitHub Streak" /></td>
+  </tr>
+</table>
