@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning NLP and LLM's
 - LinkedIn Top Voice in Machine Learning! 🚀
+- Intersted in working with LLMs, SLMs, VLMs, building Generative and Agentic AI applications.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
