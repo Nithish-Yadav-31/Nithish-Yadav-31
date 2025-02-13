@@ -9,7 +9,7 @@
 
 - 🌱 Currently diving deep into **Natural Language Processing (NLP) and Large Language Models (LLMs)**, exploring innovative applications.
 
-- ✨ LinkedIn Top Voice in Machine Learning! 🚀
+- ✨ Proud to be a LinkedIn Top Voice in Machine Learning! 🚀
 
 <hr>
 
@@ -52,6 +52,9 @@
   <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/373541/cuda.svg" alt="CUDA" width="40" height="40"/>
   </a>
+   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.tensorflow.org/images/tf_logo.svg" alt="Tensorflow" width="40" height="40"/>
+  </a>
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C programming" width="40" height="40"/>
   </a>
@@ -93,13 +96,8 @@
 </p>
 <hr>
 <h3 align="left"> ⚡ Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithish-yadav-31&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nithish-yadav-31&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=nithish-yadav-31&show_icons=true&locale=en" alt="GitHub Stats" /></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nithish-yadav-31&" alt="GitHub Streak" /></td>
-  </tr>
-</table>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nithish-yadav-31&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithish-yadav-31&" alt="GitHub Streak" /></p>
