@@ -9,7 +9,7 @@
 
 - 🌱 Currently diving deep into **Natural Language Processing (NLP) and Large Language Models (LLMs)**, exploring innovative applications.
 
-- ✨ Proud to be a LinkedIn Top Voice in Machine Learning! 🚀
+- ✨ LinkedIn Top Voice in Machine Learning! 🚀
 
 <hr>
 
@@ -93,8 +93,13 @@
 </p>
 <hr>
 <h3 align="left"> ⚡ Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nithish-yadav-31&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nithish-yadav-31&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nithish-yadav-31&" alt="GitHub Streak" /></p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nithish-yadav-31&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=nithish-yadav-31&show_icons=true&locale=en" alt="GitHub Stats" /></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nithish-yadav-31&" alt="GitHub Streak" /></td>
+  </tr>
+</table>
