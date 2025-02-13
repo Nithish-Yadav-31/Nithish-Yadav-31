@@ -40,7 +40,7 @@
     <img src="https://logowik.com/content/uploads/images/ollama-language-model1721162986.logowik.com.webp" alt="Ollama" width="50" height="40"/>
   </a>
   <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.trychroma.com/_next/static/media/chroma.d840f629.png" alt="ChromaDB" width="40" height="40"/>
+    <img src="https://www.trychroma.com/_next/static/media/chroma.d840f629.png" alt="ChromaDB" width="60" height="40"/>
   </a>
   <a href="https://qdrant.tech/" target="_blank" rel="noreferrer">
     <img src="https://images.seeklogo.com/logo-png/49/1/qdrant-icon-logo-png_seeklogo-497960.png" alt="QdrantDB" width="40" height="40"/>
