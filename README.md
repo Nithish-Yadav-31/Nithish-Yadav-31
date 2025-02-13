@@ -31,11 +31,11 @@
     <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.19.0/files/dark/langchain.png" alt="LangChain" width="40" height="40"/>
   </a>
   <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer">
-    <img src="https://langchain-ai.github.io/langgraph/static/wordmark_light.svg" alt="LangGraph" width="40" height="70"/>
+    <img src="https://langchain-ai.github.io/langgraph/static/wordmark_light.svg" alt="LangGraph" width="40" height="40"/>
   </a>
 
   <a href="https://www.crewai.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.greghilston.com/post/ai-agents/featured-image.png" alt="CrewAI" width="100" height="40"/>
+    <img src="https://www.greghilston.com/post/ai-agents/featured-image.png" alt="CrewAI" width="100" height="30"/>
   </a>
 
 
