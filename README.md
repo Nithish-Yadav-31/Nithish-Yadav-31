@@ -43,10 +43,10 @@
     <img src="https://www.trychroma.com/_next/static/media/chroma.d840f629.png" alt="ChromaDB" width="60" height="40"/>
   </a>
   <a href="https://qdrant.tech/" target="_blank" rel="noreferrer">
-    <img src="https://oriondesign.art.br/wp-content/uploads/2024/05/Qdrant.webp" alt="QdrantDB" width="60" height="40"/>
+    <img src="https://oriondesign.art.br/wp-content/uploads/2024/05/Qdrant.webp" alt="QdrantDB" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://companieslogo.com/img/orig/MDB_BIG.D-96d632a9.png?t=1720244492" alt="MongoDB" width="40" height="40"/>
+    <img src="https://companieslogo.com/img/orig/MDB_BIG.D-96d632a9.png?t=1720244492" alt="MongoDB" width="70" height="40"/>
   </a>
 
 
